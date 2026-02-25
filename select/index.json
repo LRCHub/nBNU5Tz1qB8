@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Daydreamer",
+  "base_artist": "AURORA",
+  "createdAt": "2026-02-25T03:07:20.849276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/01_Daydreamer_Adele.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daydreamer - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/02_Daydreamer_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Menswear",
+      "has_synced": true,
+      "path": "select/03_Daydreamer_Menswear.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Airiel",
+      "has_synced": true,
+      "path": "select/04_Daydreamer_Airiel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Patrick Watson",
+      "has_synced": true,
+      "path": "select/05_Daydreamer_Patrick_Watson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Runaway Daydreamer",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/06_Runaway_Daydreamer_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/07_Daydreamer_Adele.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/08_Daydreamer_Adele.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/09_Daydreamer_Adele.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/10_Daydreamer_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "David Cassidy",
+      "has_synced": false,
+      "path": "select/11_Daydreamer_David_Cassidy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "TwoThirds feat. Bijou",
+      "has_synced": false,
+      "path": "select/12_Daydreamer_TwoThirds_feat._Bijou.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daydreamer (feat. Bijou)",
+      "artist": "TwoThirds",
+      "has_synced": false,
+      "path": "select/13_Daydreamer_(feat._Bijou)_TwoThirds.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/14_Daydreamer_Adele.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Daydreamer",
+      "artist": "Flux Pavilion feat. Example",
+      "has_synced": true,
+      "path": "select/15_Daydreamer_Flux_Pavilion_feat._Example.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Daydreamer - feat. Example [Ra",
+      "artist": "Flux Pavilion / Example",
+      "has_synced": true,
+      "path": "select/16_Daydreamer_-_feat._Example_[Ra_Flux_Pavilion___Example.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daydreamer",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/pl_01_Daydreamer_AURORA.txt"
+    }
+  ]
+}
